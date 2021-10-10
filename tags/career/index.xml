@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Patrick S. Kelso</title>
+    <link>https://patrickkelso.com.au/tags/career/</link>
+    <description>Recent content in Career on Patrick S. Kelso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Oct 2021 17:38:01 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT Certifications</title>
+      <link>https://patrickkelso.com.au/2021/10/it-certifications/</link>
+      <pubDate>Fri, 08 Oct 2021 17:38:01 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/2021/10/it-certifications/</guid>
+      <description>This is a rehash of advice I regularly give undergraduate students at UTS when they ask me what certification they should get.
+I recently received responses for an RFQ for a review of our AWS &amp;amp; Azure governance &amp;amp; architecture. Some vendors had heaps of certs for one cloud, but none for the other. Only one had people that were well rounded with both certs and experience in both. Which makes picking the vendor really easy.</description>
+    </item>
+    
+  </channel>
+</rss>

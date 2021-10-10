@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevSecOps on Patrick S. Kelso</title>
+    <link>https://patrickkelso.com.au/tags/devsecops/</link>
+    <description>Recent content in DevSecOps on Patrick S. Kelso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 13:38:06 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimum CD</title>
+      <link>https://patrickkelso.com.au/2021/10/minimum-cd/</link>
+      <pubDate>Sun, 10 Oct 2021 13:38:06 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/2021/10/minimum-cd/</guid>
+      <description>At the 2021 US DevOps Enterprise Summit I participated in a multi-day discussion around the definition of CD. Bryan Finster started us off with a rough draft of his ideas and we built it into a manifest.
+Minimum CD
+There are a number of signatories and we are looking for feedback and reviews still. This is not meant to be an exhaustive list of all the things you could do for CD, rather the bare minimum that we all agree meets the definition.</description>
+    </item>
+    
+  </channel>
+</rss>
