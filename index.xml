@@ -6,8 +6,16 @@
     <description>Recent content on Patrick S. Kelso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>These pages contain content by Patrick S. Kelso, all content is licensed under cc-by-sa-4.0</copyright>
     <lastBuildDate>Sun, 10 Oct 2021 12:25:06 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimum CD</title>
+      <link>https://patrickkelso.com.au/2021/10/minimum-cd/</link>
+      <pubDate>Sun, 10 Oct 2021 13:38:06 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/2021/10/minimum-cd/</guid>
+      <description>At the 2021 US DevOps Enterprise Summit we did a thing. https://minimumcd.org</description>
+    </item>
+    
     <item>
       <title>Patrick S. Kelso</title>
       <link>https://patrickkelso.com.au/about/patrick/</link>
@@ -20,10 +28,10 @@ I teach consulting and problem solving at the University of Technology Sydney wh
     
     <item>
       <title>Test Post</title>
-      <link>https://patrickkelso.com.au/posts/test-post/</link>
+      <link>https://patrickkelso.com.au/2021/10/test-post/</link>
       <pubDate>Sun, 10 Oct 2021 11:15:48 +1100</pubDate>
       
-      <guid>https://patrickkelso.com.au/posts/test-post/</guid>
+      <guid>https://patrickkelso.com.au/2021/10/test-post/</guid>
       <description>This is not the greatest test in the world This is just a tribute </description>
     </item>
     
