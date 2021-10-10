@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick S. Kelso</title>
+    <link>https://patrickkelso.com.au/</link>
+    <description>Recent content on Patrick S. Kelso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>These pages contain content by Patrick S. Kelso, all content is licensed under cc-by-sa-4.0</copyright>
+    <lastBuildDate>Sun, 10 Oct 2021 11:31:19 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patrick</title>
+      <link>https://patrickkelso.com.au/about/patrick/</link>
+      <pubDate>Sun, 10 Oct 2021 11:31:19 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/about/patrick/</guid>
+      <description>Patrick S. Kelso I like solving problems and long walks on the beach. Check my LinkedIn to see where I am working now.
+I teach consulting and problem solving at the University of Technology Sydney where I am quite active in several societies helping the next generation of consultants and IT professionals kick-start their career.</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://patrickkelso.com.au/posts/test-post/</link>
+      <pubDate>Sun, 10 Oct 2021 11:15:48 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/posts/test-post/</guid>
+      <description>This is not the greatest test in the world This is just a tribute </description>
+    </item>
+    
+  </channel>
+</rss>
