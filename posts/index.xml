@@ -5,47 +5,6 @@
     <link>https://patrickkelso.com.au/posts/</link>
     <description>Recent content in Posts on Patrick S. Kelso</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 09:27:08 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Conferencess and Community</title>
-      <link>https://patrickkelso.com.au/2021/10/conferencess-and-community/</link>
-      <pubDate>Fri, 15 Oct 2021 09:27:08 +1100</pubDate>
-      
-      <guid>https://patrickkelso.com.au/2021/10/conferencess-and-community/</guid>
-      <description>In the last two weeks I&amp;rsquo;ve attended two conferences hosted by organisations based in North America. The experiences I had as an Australian in Sydney were vastly difference. One conference - I&amp;rsquo;m going to refer to it as Conf1 - leveraged technology to create opportunities for community and serendipity. The other - Conf2 - seemed to be optimised for marketing metrics.
-Timezones &amp;amp; Videos Both conferences did take time zones into consideration, Conf1 by allowing all videos except the plenary sessions to be streamed at any time from the event platform (plenary sessions could be streamed on demand after they aired).</description>
-    </item>
-    
-    <item>
-      <title>Minimum CD</title>
-      <link>https://patrickkelso.com.au/2021/10/minimum-cd/</link>
-      <pubDate>Sun, 10 Oct 2021 13:38:06 +1100</pubDate>
-      
-      <guid>https://patrickkelso.com.au/2021/10/minimum-cd/</guid>
-      <description>At the 2021 US DevOps Enterprise Summit I participated in a multi-day discussion around the definition of CD. Bryan Finster started us off with a rough draft of his ideas and we built it into a manifest.
-Minimum CD
-There are a number of signatories and we are looking for feedback and reviews still. This is not meant to be an exhaustive list of all the things you could do for CD, rather the bare minimum that we all agree meets the definition.</description>
-    </item>
-    
-    <item>
-      <title>IT Certifications</title>
-      <link>https://patrickkelso.com.au/2021/10/it-certifications/</link>
-      <pubDate>Fri, 08 Oct 2021 17:38:01 +1100</pubDate>
-      
-      <guid>https://patrickkelso.com.au/2021/10/it-certifications/</guid>
-      <description>This is a rehash of advice I regularly give undergraduate students at UTS when they ask me what certification they should get.
-I recently received responses for an RFQ for a review of our AWS &amp;amp; Azure governance &amp;amp; architecture. Some vendors had heaps of certs for one cloud, but none for the other. Only one had people that were well rounded with both certs and experience in both. Which makes picking the vendor really easy.</description>
-    </item>
-    
-    <item>
-      <title>Advice for students</title>
-      <link>https://patrickkelso.com.au/2021/01/advice-for-students/</link>
-      <pubDate>Sun, 10 Jan 2021 11:15:48 +1100</pubDate>
-      
-      <guid>https://patrickkelso.com.au/2021/01/advice-for-students/</guid>
-      <description>Things I wish I&amp;rsquo;d known. Learn time management &amp;amp; delayed gratification. This is the number one predictor of success in my experience. Yes going out with your friends is more interesting than working on your assignment; but finishing your assignments in a timely fashion so they aren&amp;rsquo;t all due at once, and then going out with your friends is better. I recommend using Google Calendar or similar alternatives to keep track of your timetable both classes and other activities.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://patrickkelso.com.au/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
