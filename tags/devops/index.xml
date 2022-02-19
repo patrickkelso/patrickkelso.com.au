@@ -6,7 +6,18 @@
     <description>Recent content in DevOps on Patrick S. Kelso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Oct 2021 13:38:06 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 11:15:48 +1100</lastBuildDate><atom:link href="https://patrickkelso.com.au/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with GitHub and DevSecOps</title>
+      <link>https://patrickkelso.com.au/2022/02/getting-started-with-github-and-devsecops/</link>
+      <pubDate>Sat, 19 Feb 2022 11:15:48 +1100</pubDate>
+      
+      <guid>https://patrickkelso.com.au/2022/02/getting-started-with-github-and-devsecops/</guid>
+      <description>&lt;h1 id=&#34;how-to-take-learn-git-github-and-more-on-a-budget&#34;&gt;How to take learn git, GitHub and more on a budget.&lt;/h1&gt;
+&lt;p&gt;A lot of the intern candidates I speak with are not familiar with many modern tools because most university IT and CS courses don&amp;rsquo;t use them, or don&amp;rsquo;t use them to their full potential. In a similar boat are senior systems engineers who have worked for often 10, 15 or even 20+ years in Windows, UNIX/Linux or a hardware field like storage or networking and have never come across these developer centric paradigms for operations.&lt;/p&gt;
+&lt;p&gt;This post is for you. It assumes you are comfortable with your computer whatever operating system you run, and you want to learn what the fuss is about Git, GitHub, CI/CD and Dev(Sec)Ops.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Minimum CD</title>
       <link>https://patrickkelso.com.au/2021/10/minimum-cd/</link>
