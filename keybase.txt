@@ -4,67 +4,65 @@ https://keybase.io/psk
 
 I hereby claim:
 
-  * I am an admin of https://patrickkelso.com
+  * I am an admin of https://patrickkelso.com.au
   * I am psk (https://keybase.io/psk) on keybase.
   * I have a public key with fingerprint 945E 882E A82A 9756 AB7C  142D F14C 6ACD 77B7 6224
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01209ea21cb614d2865ae745f896b8d54e0e29ac1757a1f291cde3cd6e1ffc8fb7b00a",
-            "fingerprint": "945e882ea82a9756ab7c142df14c6acd77b76224",
-            "host": "keybase.io",
-            "key_id": "f14c6acd77b76224",
-            "kid": "0101069c6711d95a8fd283d36f36048d4a2d4b2918d2de8f5ebdc2ac530e591ccb560a",
-            "uid": "233edfa58c84847712e9115725339019",
-            "username": "psk"
-        },
-        "service": {
-            "hostname": "patrickkelso.com",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01209ea21cb614d2865ae745f896b8d54e0e29ac1757a1f291cde3cd6e1ffc8fb7b00a",
+      "fingerprint": "945e882ea82a9756ab7c142df14c6acd77b76224",
+      "host": "keybase.io",
+      "key_id": "f14c6acd77b76224",
+      "kid": "0101069c6711d95a8fd283d36f36048d4a2d4b2918d2de8f5ebdc2ac530e591ccb560a",
+      "uid": "233edfa58c84847712e9115725339019",
+      "username": "psk"
     },
-    "ctime": 1481049948,
-    "expire_in": 157680000,
-    "prev": "d1fc031fcde4e77361567cfc39d0cad72afcb35173529950989535e63a49b6db",
-    "seqno": 17,
-    "tag": "signature"
+    "service": {
+      "hostname": "patrickkelso.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1653423124,
+  "expire_in": 157680000,
+  "prev": "f33d431660d7d02174fe89ab717d5c36c4e2f5038f5995ef6fe83ff8206ee118",
+  "seqno": 89,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.58
-Comment: https://keybase.io/crypto
 
-yMNzAnicbVJrTFRHFF4oaKWBEGhpjBXSizaaLHDfj5XUtqmiaAVao4VStvfOzF0u
-u+wud3dZXtuYqCjxgRG1SPqwtqUFFYE0bH1AhUJpLa+EEmCV0BQlIJBCRUqqxd4l
-5V9nkpnMOd/3zXdOTnvoM7qQgLndOd1ur7Qh4JfWj1y6d5NWZxZjkg0WYoZizIyW
-L2SByOE0mhWIGTCcIHEBiSQBJJagIcmzjIg4mpF5gZV4yNAIR6QgAoJjOJGQSYEA
-EFEAsoiQZcDLEifhuIjpMVmxmpBqVxWrU5MVaAbxPIlEnhQFjmFFiQMETUKZoAEr
-AshxEseSJK0Rs20OP0MzJ4kOFK/YtJj2MC7b+x/8im9tswJgOYKAAiPysuadghQr
-UyxO85AWSUhLml0ekhDxMoMkCEgRMBSOGK0IIDHssm/XshxJUQjKIsMDnuZpjiNI
-JBAEw5EMRQk4IfiBDqRaxVykoe0OM+bRY1ogXwHI31N/EStJ0akqwGxGFoctHthy
-NapdtTltwGbRstlOp91h8LOdhXY/3I0k439CRkmxQq2NGiMfqQ7FZsUMhIYETsWv
-TNA8gdOCQPN6DBXYFRUZFT+C4Vge15b/H5SvSUJCBjilHRDRiOMolmBYDsiAEiAO
-RMiRogwkiiE4iiEFgcEFXmAoBrGUSAsSCyXMX1qe1aZpc5pP0aRpOhSTVXS6VIR5
-2lozg3QBIbpVwYH++dKFrAlfmbqE6XCd19K0bXIhI2xzVlt4W2xWV8yzx1wHM3ZE
-pXx49va6+8bnOpqPlv9VBJ6vDT26Z7rYPpBcEj65dtx7wWLIUCvveUcXZ96uiShf
-em1sfsNixZIzvb32j6oEM+d6NFqS2qKLzIw4t5Vt6h4rHL05OnjqQc904pzh6tmq
-Gwnn+gPJrgdZE6v/UeNSRoa7eV/4Bx7XfAyTHn98ftd48Dc3Qwcifkd/7hOImN6W
-AVDNHajImX5ccvnqeSqoaW+cO69TDU0dvv1xrC/6StruvV/BjV9S2bXSvY2Ramlg
-/+D2wfeH0r526mbq2y+Y9lU89eJ10qWdJk/Xr1MXrw25Z9ekNmecGAub+mHtUN/1
-cd2Lhwv2s7vUVP0dNzhtYP6eoNbfSboRbOq522qain2iTs513pJqpYsZeVWbtkQZ
-z/QOf19/7FLNnq517Uc8vr7e7PIT+mrzkci0sMr5Hl+K/qeFgm1LZY1b846PuC+n
-72+puhL9asHP26+XNYR0/HZydkpQijrHMz2tdQe/KC39xDi2avHWgukN37W479Km
-knsmIgM35YgDjy0LB0Jmk6PIT/P6mmdqdhzrJTs/e6Xo87sPHx4eObn+de7QC9b3
-qtwFQS8FNjytvP9OY+3oqc2NM3Gmtzw1/YOJiU8s387v9KqH6n6MXNrSWW+vLovq
-mPS9mfsyft4bndWQtPDoTMS/GUzQJQ==
-=muTj
+owFtUmtMFFcUXlgkPEoESggEoTgiVUK3c+c9FBWUlj9osKY8guw6M/cOjAs7y+4C
+5eWLKqIskoAVIiXUPhRqEMI2GOoLbBECGJNKEBsoNMSkASPQgjHVtrOk/Ou9P27u
+Od/33e+cexoC9Dofj+W0o+OlfWKMx+jvok50JmIVmKjCMiyhAjOj9QMVQGR3mMwK
+xBIwHBA4jwQCSCIDKEhwDC0glqJljmdEDtIUwhHBCxJgaVYAMsEDCSJSggwCsixx
+ssiKOC5g8ZisWPKQzWpTLA5NlqdoxHEEEjhC4FmaEURWAhQBZUBJjCBBlhVZhiAo
+jZiv2t0MzZwo2JFBUbWYdjGt2/sf/IZvbTO8xLAAQJ4WOFnzTkKSkUkGpzhICQSk
+RM0uBwmIOJlGIpQIQaJJHNFaEZJIM+u+i9flCJJEUBZoTuIojmJZQCAeAJolaJLk
+ccC7gXZkswiFSENb7WasKh7TAiWKhNw9dRexkRQcNkUym1GBXTVIaqFBKNbYVpvq
+UCW1QAPkOxxWe4JbwFFmdTNKkWj6T8skKhaodVJjlCCbXVEtWALQkJJDcYsDhiYp
+ggQEFY+hT62KDZkUN4JmGQ7XlvsdVOLuG0lCKocEDINDFuIEYCkZcbz2DYCFtEQy
+EoUImcZJrTM8TyOZ0dKkLHMEziAEAIe5yyuyqFgCx2tGhTxN1K7kWQRHsQ1hVX61
+nqSXzsNHFxm61avJeNZwLe5SxneVIe9tjN8mT/fs6fx8AzciSfGb/7HXmyL70HTZ
+6WMt5X8Ve49eyYFd2bMrg+2J+StPX/hn9LS1sr9IpZciuse+pWv6zhFnVGfFgilg
+MhTXFVRnfb+W81VH1fOy36KSRmMxv4ZI5VnM9dZF/ef6SJq8Ol1+KCYJ3vANP7y2
+6n/BJXzRPzHXfURXYa7Tf7N7s8/14aJma82O46Fz5dHNk94H9h4Moz8YHfowMOsY
+O3PynH16BzZEgNdjD9p7X9/seHgiqSnbf/H24kLnRK4zGMLQmIbe4bYioi4YnUq/
+1zzse7c+Il3XuOXjoOWzuZ1DczV928403R+c8gvbX9p99MrMQuDsz1/earmvj0jv
+jnqrxRgRbnTuqV/cvsfww/gTPjsq1ePwg/PvLu1sHC/yWv4jbn5y+k09qh0pysqd
+GslypWzy6sf2j7xNVwzkUJaex2JHcrrhIlvX5bnPqWspnL1bbJCMGc7s88Oph54E
+dbxKHLuwve1X8GjhefTlkMylsXuta/6xd7xzM83tYbnVVU9v7o5r/tHlbJxcvZPY
+nZr2Sk0JTE656pHT9+zvl2rER4PXPikaCL9YGfRyX1fUjOHWYrTrRFKiatS/c7DT
+d2nu6wPej7wfFq4GrxzPMM6cetPZy4WkXVZad70YrlT/DJhwHanGM6mTe3Xvb5sv
+GYgd7p+Yn3JM7qzdOrDltkVy/dT4+EbyZ7t6Tsf+Cw==
+=o0CQ
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -73,4 +71,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/psk
 
 ==================================================================
-
